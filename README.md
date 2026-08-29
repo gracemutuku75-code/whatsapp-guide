@@ -1,2 +1,1 @@
-# whatsapp-guide
-Mwongozo rahisi wa jinsi ya kupakua na kusanikisha WhatsApp
+Jinsi ya kupakua (download) na kusanikisha(install) WhatsApp
